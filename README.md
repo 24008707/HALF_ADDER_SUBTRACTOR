@@ -78,4 +78,5 @@ Developed by: RegisterNumber:*/ VISAL R    24008707
 ![output 2](https://github.com/user-attachments/assets/02f44016-e374-4b67-be21-387d06ae72d9)
 
 **Result:**
-To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming its are verifid
+
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming its are verifid.
